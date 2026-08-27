@@ -1,4 +1,4 @@
-package ar.edu.uns.cs.ed.tdas;
+package ar.edu.uns.cs.ed.tdas.tdalista;
 
 /**
  * Interface Position

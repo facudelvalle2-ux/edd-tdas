@@ -1,7 +1,8 @@
-package ar.edu.uns.cs.ed.tdas.tdaarbol;
+package ar.edu.uns.cs.ed.tdas.tdaarbolbinario;
 
 import java.util.Iterator;
-import ar.edu.uns.cs.ed.tdas.Position;
+
+import ar.edu.uns.cs.ed.tdas.tdalista.Position;
 
 /**
  * Interface GTTree

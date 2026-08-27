@@ -1,6 +1,6 @@
 package ar.edu.uns.cs.ed.tdas.tdagrafo;
 
-import ar.edu.uns.cs.ed.tdas.Position;
+import ar.edu.uns.cs.ed.tdas.tdalista.Position;
 
 /**
  * Interface Edge

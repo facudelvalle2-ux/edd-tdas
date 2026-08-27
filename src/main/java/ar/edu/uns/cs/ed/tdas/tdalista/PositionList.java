@@ -2,7 +2,6 @@ package ar.edu.uns.cs.ed.tdas.tdalista;
 
 import java.util.Iterator;
 
-import ar.edu.uns.cs.ed.tdas.Position;
 import ar.edu.uns.cs.ed.tdas.excepciones.BoundaryViolationException;
 import ar.edu.uns.cs.ed.tdas.excepciones.EmptyListException;
 import ar.edu.uns.cs.ed.tdas.excepciones.InvalidPositionException;
